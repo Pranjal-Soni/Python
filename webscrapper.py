@@ -6,6 +6,8 @@ Created on Thu Jun 20 17:49:09 2019
 @author: pranjal
 """
 
+#This program download comic images from http://xkcd.com and store them in a folder
+
 import os,bs4,requests
 
 url = 'http://xkcd.com'
